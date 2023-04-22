@@ -1,0 +1,8 @@
+images/
+*.o
+pa3
+pa3test
+testMaze
+testStackQueue
+maze
+*.d
